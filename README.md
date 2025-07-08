@@ -43,6 +43,10 @@
 ![حالة الطلب](images/request_status.png)
 ![حالة الطلب](images/request_status2.png)
 
+
+### لوحة تحكم المشرف (Admin)
+![لوحة تحكم المشرف (Admin)](images/dashboard.png)
+
 ---
 
 
